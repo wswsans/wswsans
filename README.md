@@ -3,7 +3,7 @@
 | - | - |
 | 名前 | 笑さん / Wsan |
 | 学生? | true |
-| 主に使っている言語 | (Python), JavaScript, (HTML, CSS) |
+| 主に使っている言語 | Python, JavaScript, HTML, CSS |
 | パソコン | MacBookAir(2017) |
 | OS | macOS Catalina |
 | サブPC | Lenovo IdeaPad Flex 10 |
