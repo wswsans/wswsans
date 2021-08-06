@@ -11,6 +11,9 @@
 | 力作 | [MusicPlayer](https://wswsans.github.io/music-player)([Github](https://github.com/wswsans/music-player)), [Presen](https://wswsans.github.io/presen)([Github](https://github.com/wswsans/presen)) |
 | 好きな曲 | [TIMELINEの終わり](https://youtu.be/vJuPXmDQhUM) |
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wswsans)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wswsans&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/wswsans)
+
 <!--
 ### Hi there 👋
 **wswsans/wswsans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
