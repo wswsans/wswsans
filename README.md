@@ -2,13 +2,13 @@
 | ↓| 説明 |
 | - | - |
 | Name | 笑さん / Wsan |
-| Student? | true |
-| Often use | Python, JavaScript, HTML, CSS |
+| Student? | maybe true |
+| My use languages | C++, Python, C, JavaScript, HTML |
 | Main PC | MacBookAir(2017) |
 | OS | macOS Catalina |
 | Sub PC | Lenovo IdeaPad Flex 10 |
 | Sus PC's OS | ArchLinux |
-| Masterpiece | [MusicPlayer](https://wswsans.github.io/music-player)([Github](https://github.com/wswsans/music-player)), [Presen](https://wswsans.github.io/presen)([Github](https://github.com/wswsans/presen)) |
+| My favourite my project | [MusicPlayer](https://wswsans.github.io/music-player)([Github](https://github.com/wswsans/music-player)), [Presen](https://wswsans.github.io/presen)([Github](https://github.com/wswsans/presen)) |
 | Favorite music | [TIMELINEの終わり (The End of TIMELINE)](https://youtu.be/vJuPXmDQhUM) |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wswsans)](https://github.com/anuraghazra/github-readme-stats)
