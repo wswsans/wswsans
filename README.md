@@ -8,11 +8,14 @@
 | OS | macOS Catalina |
 | Sub PC | Lenovo IdeaPad Flex 10 |
 | Sus PC's OS | ArchLinux |
-| My favourite my project | [MusicPlayer](https://wswsans.github.io/music-player)([Github](https://github.com/wswsans/music-player)), [Presen](https://wswsans.github.io/presen)([Github](https://github.com/wswsans/presen)) |
+| My favourite my project | Pinned projects |
 | Favorite music | [TIMELINEの終わり (The End of TIMELINE)](https://youtu.be/vJuPXmDQhUM) |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wswsans)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wswsans&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/wswsans)
+<!--
+[MusicPlayer](https://wswsans.github.io/music-player)([Github](https://github.com/wswsans/music-player)), [Presen](https://wswsans.github.io/presen)([Github](https://github.com/wswsans/presen))
+-->
 
 <!--
 ### Hi there 👋
