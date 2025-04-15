@@ -1,15 +1,17 @@
-## About me.
+## 私の解説
 | ↓| 説明 |
 | - | - |
-| Name | 笑さん / Wsan |
-| Student? | maybe true |
-| My use languages | C++, Python, C, JavaScript, HTML |
-| Main PC | MacBookAir(2017) |
-| OS | macOS Catalina |
-| Sub PC | Lenovo IdeaPad Flex 10 |
-| Sus PC's OS | ArchLinux |
-| My favourite my project | Pinned projects |
-| Favorite music | [TIMELINEの終わり (The End of TIMELINE)](https://youtu.be/vJuPXmDQhUM) |
+| 名前 | 笑さん / Wsan |
+| 読み方 | わらさん　|
+| 学生? | いいえ(無職) |
+| よく使う言語 | Python, C, C++, JavaScript, HTML, CSS |
+| 理解してる言語 | Rust, Ruby, Java |
+| メインPC | MacBookAir(2017) |
+| メインPCのOS | macOS Monterey / Windows10(BootCamp) |
+| サブ | Lenovo IdeaPad Flex 10 |
+| サブPCのOS | ArchLinux / Windows8.1 |
+| 好きなプロジェクト発表ドラゴン | ピン留め参照 |
+| 好きな音楽(アルバム) | [植物電子の本(BandCampリンク)](https://susumuhirasawa.bandcamp.com/album/the-book-of-phytoelectron) |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wswsans)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wswsans&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/wswsans)
