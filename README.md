@@ -3,7 +3,8 @@
 | - | - |
 | 名前 | 笑さん / Wsan |
 | 読み方 | わらさん　|
-| 学生? | いいえ(無職) |
+| 学生? | いいえ |
+| 職業 | アルバイト |
 | よく使う言語 | Python, C, C++, JavaScript, HTML, CSS |
 | 理解してる言語 | Rust, Ruby, Java |
 | メインPC | MacBookAir(2017) |
